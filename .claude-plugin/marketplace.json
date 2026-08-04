@@ -1,0 +1,13 @@
+{
+  "name": "icon-audit-toolkit",
+  "owner": {
+    "name": "Timothy Nice"
+  },
+  "plugins": [
+    {
+      "name": "icon-toolkit",
+      "source": "./",
+      "description": "Icon audit + fix loop: inventory every icon mechanism in a codebase, render a standalone audit page with a curated issue catalog and canonical icon map, then execute fixes agent-by-agent with scan-verified progress tracking."
+    }
+  ]
+}

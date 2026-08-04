@@ -1,0 +1,9 @@
+{
+  "name": "icon-toolkit",
+  "version": "1.0.0",
+  "description": "Audit every icon in a codebase into one regenerable, self-verifying HTML page — then fix the findings through an agent-driven loop with live progress and scan-verified done-ness.",
+  "author": {
+    "name": "Timothy Nice"
+  },
+  "keywords": ["icons", "design-system", "audit", "ui", "cleanup", "iconography"]
+}

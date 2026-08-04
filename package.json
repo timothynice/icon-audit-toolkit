@@ -1,0 +1,18 @@
+{
+  "name": "icon-audit-toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agent skills and zero-dependency tooling for auditing, fixing, and verifying icon systems.",
+  "license": "MIT",
+  "author": "Timothy Nice",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothynice/icon-audit-toolkit.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node skills/icon-audit/tests/run-fixture-test.mjs"
+  }
+}
